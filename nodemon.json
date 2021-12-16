@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "Nodeuser",
+        "MONGO_PASSWORD": "nodeguide",
+        "MONGO_DATABASE": "gmessages"
+    }
+}
